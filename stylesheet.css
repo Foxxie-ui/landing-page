@@ -1,0 +1,32 @@
+html {
+    background-color: #4b4460;
+    display: flex;
+}
+
+.header {
+    background-color: #4b4460;
+    color: #ed815d;
+    display: flex;
+    flex: 1;
+
+
+}
+
+.links {
+    color: #ed815d;
+}
+
+#body1 {
+    background-color: #594460;
+    color: #ED5D81;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+#bodyLeft {
+    flex: 1;
+}
+
+#bodyRight {
+    flex: 1;
+}
